@@ -1,0 +1,137 @@
+{
+  "name": "Zahra Ghojavand",
+  "title": "مهندس معماری داخلی",
+  "city": "تهران",
+  "email": "ghojavandzahra0@gmail.com",
+  "github": "https://github.com/your-username",
+  "avatar": "",
+  "about": "مهندس معماری داخلی با بیش از ۵ سال تجربه در طراحی و اجرای پروژه‌های مسکونی و تجاری. دارای مهارت‌های قوی در استفاده از نرم‌افزارهای طراحی مانند 3ds Max و AutoCAD و تسلط بر اصول طراحی داخلی و نورپردازی و محوطه‌سازی. توانایی کار در تیم‌های چندرشته‌ای و مدیریت پروژه‌ها از مرحله ایده‌پردازی تا نهایی‌سازی. به دنبال ایجاد فضاهای زیبا و کارآمد هستم که نیازهای مشتریان را برآورده کند. ارتباطات قوی با مشتریان و توجه به جزئیات از ویژگی‌های بارز من است. متعهد به به‌روز نگه‌داشتن دانش و مهارت‌هایم در حوزه معماری داخلی.",
+  "ui": {
+    "siteTitle": "زهرا قجاوند | معماری داخلی",
+    "brand": "Zahra Ghojavand",
+    "navHome": "خانه",
+    "navProjects": "پروژه‌ها",
+    "navArticles": "مقالات",
+    "heroBtn": "مهارت‌های من",
+    "aboutTitle": "درباره من",
+    "skillsTitle": "مهارت‌ها",
+    "recentTitle": "پروژه‌های اخیر",
+    "peekText": "مشاهدهٔ همهٔ پروژه‌ها ←",
+    "projectsTitle": "پروژه‌های من",
+    "articlesTitle": "مقالات من",
+    "emptyProjects": "هنوز پروژه‌ای اضافه نشده.",
+    "emptyArticles": "هنوز مقاله‌ای اضافه نشده.",
+    "linkLabel": "مشاهده",
+    "footerTitle": "بیایید فضای بعدی را با هم بسازیم",
+    "mailBtn": "ایمیل",
+    "githubBtn": "GitHub",
+    "footerCopy": "Zahra Ghojavand — طراحی داخلی با نور و گرما"
+  },
+  "rooms": [
+    "نشیمن",
+    "آشپزخانه",
+    "ناهارخوری",
+    "اتاق خواب",
+    "حمام",
+    "کمد",
+    "تراس",
+    "ورودی"
+  ],
+  "skills": [
+    [
+      "AutoCAD",
+      5
+    ],
+    [
+      "Rhino",
+      5
+    ],
+    [
+      "3D Max",
+      5
+    ],
+    [
+      "Revit",
+      5
+    ],
+    [
+      "Adcl",
+      5
+    ],
+    [
+      "SketchUp",
+      5
+    ],
+    [
+      "Photoshop",
+      5
+    ],
+    [
+      "Land scape",
+      5
+    ],
+    [
+      "Landscape",
+      5
+    ],
+    [
+      "Commercial Interior Design",
+      5
+    ],
+    [
+      "Villa Design",
+      5
+    ],
+    [
+      "Roof Design",
+      5
+    ],
+    [
+      "Interior & Facade Design",
+      5
+    ],
+    [
+      "Cabinet Design",
+      5
+    ],
+    [
+      "Furniture Design",
+      5
+    ],
+    [
+      "Familiar with modern materials",
+      5
+    ],
+    [
+      "زبان انگلیسی",
+      4
+    ]
+  ],
+  "projects": [
+    {
+      "title": "ویلای مسکونی",
+      "description": "طراحی داخلی و نورپردازی گرم یک ویلا",
+      "image": "",
+      "body": ""
+    },
+    {
+      "title": "دفتر تجاری",
+      "description": "طراحی فضای کار مدرن و دلباز",
+      "image": "",
+      "body": ""
+    },
+    {
+      "title": "طراحی مبلمان",
+      "description": "مبلمان و کابینت سفارشی",
+      "image": "",
+      "body": ""
+    }
+  ],
+  "articles": [
+    {
+      "title": "نورپردازی در فضای داخلی",
+      "description": "چگونه نور گرم حس خانه را می‌سازد",
+      "body": "متن کامل مقاله را از ادمین پنل یا فایل JSON وارد کنید."
+    }
+  ]
+}
